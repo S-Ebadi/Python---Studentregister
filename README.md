@@ -68,4 +68,4 @@ Funktioner:
 4. Följ instruktionerna på skärmen
 
 
-Kör igång och testa!
+"Walk like you just got the best news of your life. Talk like the world is listening. Move like life is designed in your favor. Energy is magnetic. And confidence bends reality. Some will call it arrogance. Others will say you´re naive. But the people who believe good things happen to them? They´re usually right"
