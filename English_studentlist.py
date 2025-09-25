@@ -1,6 +1,7 @@
 students = []
 
 while True:
+
     print("\n1. Add student\n2. List students\n3. Find student\n4. Calculate average age\n5. Remove student\n6. Exit")
     option = input("Please select option: ")
 
@@ -8,6 +9,8 @@ while True:
         name = input("Name: ")
         try:
             age = int(input("Age: "))
+            students.append({"name": name, "age": age})
+            print(f"{name} has been added.")
         except:
             print("Age must be a number.")
             input("Press Enter to return to Menu...")
@@ -51,7 +54,7 @@ while True:
         input("Press Enter to return to menu...")
 
     elif option == "6":
-        print("Exiting.")
+        print("Thank you for using my studentlist project, have a nice day!")
         break
 
     else:
