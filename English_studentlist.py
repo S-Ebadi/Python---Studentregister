@@ -54,7 +54,7 @@ while True:
         input("Press Enter to return to menu...")
 
     elif option == "6":
-        print("Thank you for using my studentlist project, have a nice day!")
+        print("Thank you for using my studentlist system, have a nice day!")
         break
 
     else:
